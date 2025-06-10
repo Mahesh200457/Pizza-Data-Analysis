@@ -3,6 +3,9 @@
 This project analyzes pizza sales data to derive business insights such as revenue trends, top-selling pizzas, and customer order patterns. The goal is to support data-driven decision-making for a pizza restaurant chain.
 
 ---
+##DASHBOARD OVERVIEW
+![Pizza Data Analysis](https://github.com/Mahesh200457/Pizza-Data-Analysis/blob/main/170a3cf6-5ade-4ebf-99bf-82a52f944731.png?raw=true)
+
 
 ## 📊 Project Objectives
 
